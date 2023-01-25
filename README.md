@@ -13,5 +13,8 @@ REAMDME FILE
   <h2>Contact Me</h2>
   <p>Email: machic8928@gmail.com </p>
   <p>Phone: 647-203-3994 </p>
+ body {
+  background-color: white;
+}
 </body>
 </html>
