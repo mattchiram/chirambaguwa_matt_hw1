@@ -3,7 +3,6 @@ REAMDME FILE
 <!DOCTYPE html>
 <html>
 <head>
-  <title>About Me</title>
 </head>
 <body>
   <h1>Hello, my name is Matthew Chirambaguwa. I usually go by Matt or MC. </h1>
